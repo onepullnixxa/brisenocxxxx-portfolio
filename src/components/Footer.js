@@ -1,10 +1,10 @@
 import React from 'react';
-import {FaCreativeCommons, FaGithub, FaLinkedin } from 'react-icons/fa';
+import {FaCreativeCommons, FaGithub, FaLinkedin, FaSoundcloud } from 'react-icons/fa';
 
 function Footer() {
     return (
         <footer>
-            <p><FaCreativeCommons /> <FaGithub /> <FaLinkedin /> ::christopher jon briseño:: 2022</p>
+            <p><FaCreativeCommons /> <FaGithub /> <FaLinkedin /> <FaSoundcloud /> ::christopher jon briseño:: 2022</p>
         </footer>
     )
 };

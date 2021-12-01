@@ -2,6 +2,7 @@ import React from 'react'
 import { Routes, Route } from 'react-router-dom';
 import Index from '../pages/Index';
 import About from '../pages/About';
+import Projects from '../pages/Projects';
 
 function Main() {
     return (
@@ -10,6 +11,7 @@ function Main() {
                 <Route path='/'>
                     <Route index element={<Index />} />
                     <Route path="about" element={<About />} />
+                    <Route path="projects" element={<Projects />} />
                 </Route>
             </Routes>            
         </main>

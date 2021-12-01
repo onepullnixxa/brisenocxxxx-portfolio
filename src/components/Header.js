@@ -18,7 +18,9 @@ function Header() {
           </li>
 
           <li className="nav-item">
+            <Link to="projects">
             <p id="projects">Projects</p>
+            </Link>
           </li>
         </ul>
       </nav>
