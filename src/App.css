@@ -44,3 +44,21 @@ footer {
   padding-top: 10px;
   font-size: 1.03em;
 }
+
+.footer-nav {
+  list-style: none;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.footer-nav li {
+  padding-right: 10px;
+}
+
+.icon-links {
+  font-size: 1.75em;
+}
+
+.footer-text {
+  padding-top: 3px;
+}
