@@ -4,8 +4,8 @@ import {
   FaGithub,
   FaLinkedin,
   FaEnvelope,
-  FaSoundcloud,
 } from "react-icons/fa";
+import RelativaLogo from "../images/relativa-logo.png"
 
 function Footer() {
   return (
@@ -32,8 +32,8 @@ function Footer() {
           </a>
         </li>
         <li className="icon-links">
-          <a href="https://soundcloud.com/christopherbriseno">
-            <FaSoundcloud />
+          <a href="https://radiorelativa.eu/show/dreamcast/">
+            <img src={RelativaLogo} height={28} />
           </a>
         </li>
         <li className="footer-text">
