@@ -23,10 +23,10 @@ function Header() {
             </Link>
           </li>
           <li className="nav-item">
-            <Link to="projects">
+            <a href="https://drive.google.com/file/d/1YKK0SBFUFTh7VFVODUIAFiL5wqoJeURi/view">
               <p id="resume">Resume</p>
-            </Link>
-          </li>          
+            </a>
+          </li>
         </ul>
       </nav>
     </div>

@@ -14,7 +14,7 @@ function Projects() {
         alt="title page of community fridge app"
       />
       <p>
-        <a href="">{`{Community Fridge App}`}</a>{" "}
+        <a href="https://github.com/onepullnixxa/community-fridge-app-frontend">{`{Community Fridge App}`}</a>{" "}
         — Work in progress
       </p>{" "}
       <br />

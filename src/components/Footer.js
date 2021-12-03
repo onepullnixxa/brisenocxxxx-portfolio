@@ -33,7 +33,7 @@ function Footer() {
         </li>
         <li className="icon-links">
           <a href="https://radiorelativa.eu/show/dreamcast/">
-            <img src={RelativaLogo} height={28} />
+            <img src={RelativaLogo} height={28} alt="small icon" />
           </a>
         </li>
         <li className="footer-text">
