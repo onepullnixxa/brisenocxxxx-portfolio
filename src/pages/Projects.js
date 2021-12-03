@@ -2,10 +2,22 @@ import React from "react";
 import MutualAid from "../images/MutualAid.jpg";
 import BallIsBeing from "../images/BallIsBeing.jpg";
 import TriviaGameAPI from "../images/trivia-game.jpg";
+import CommunityFridge from "../images/community-fridge.jpg"
 
 function Projects() {
   return (
     <div className="projects-body">
+      <img
+        src={CommunityFridge}
+        height={400}
+        width={750}
+        alt="title page of community fridge app"
+      />
+      <p>
+        <a href="">{`{Community Fridge App}`}</a>{" "}
+        — Work in progress
+      </p>{" "}
+      <br />
       <img
         src={MutualAid}
         height={400}
