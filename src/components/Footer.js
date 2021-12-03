@@ -3,6 +3,7 @@ import {
   FaCreativeCommons,
   FaGithub,
   FaLinkedin,
+  FaEnvelope,
   FaSoundcloud,
 } from "react-icons/fa";
 
@@ -23,6 +24,11 @@ function Footer() {
         <li className="icon-links">
           <a href="https://github.com/onepullnixxa">
             <FaGithub />
+          </a>
+        </li>
+        <li className="icon-links">
+          <a href="mailto:briseno.chris@gmail.com">
+            <FaEnvelope />
           </a>
         </li>
         <li className="icon-links">

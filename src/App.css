@@ -8,6 +8,10 @@ body {
   padding: 15px;
 }
 
+main {
+  max-width: 700px;
+}
+
 /* HEADER */
 
 header {
@@ -29,12 +33,23 @@ a:visited {
   list-style: none;
 }
 
+.nav-item:hover {
+  background-color: #ADC698;
+  color: #ffffff;
+  margin-left: 165px;
+}
 
 
 /* INDEX */
 
 .index-body {
   margin: 15px 0;
+}
+
+/* ABOUT */
+.about-body {
+  margin: 15px 0;
+  line-height: 1.2em;
 }
 
 /* FOOTER */
@@ -61,4 +76,19 @@ footer {
 
 .footer-text {
   padding-top: 3px;
+}
+
+/* For extremely small screen devices (595px and below) */
+@media only screen and (max-width: 595px) {
+
+}
+ 
+/* Small screen devices (600px and above) */
+@media only screen and (min-width: 600px) {
+
+}
+ 
+/* Medium screen devices (768px and above) */
+@media only screen and (min-width: 768px) {
+
 }
