@@ -64,6 +64,10 @@ a:visited {
   line-height: 1.2em;
 }
 
+.projects-body p {
+  margin: 10px 0 15px 0;
+}
+
 .projects-body a:hover{
   background-color: black;
   color: #ffffff;

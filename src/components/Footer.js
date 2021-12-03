@@ -5,7 +5,7 @@ import {
   FaLinkedin,
   FaEnvelope,
 } from "react-icons/fa";
-import RelativaLogo from "../images/relativa-logo.png"
+import RelativaLogo from "../images/relativa-icon.png";
 
 function Footer() {
   return (

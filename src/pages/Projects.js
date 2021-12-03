@@ -1,6 +1,7 @@
 import React from "react";
 import MutualAid from "../images/MutualAid.jpg";
 import BallIsBeing from "../images/BallIsBeing.jpg";
+import TriviaGameAPI from "../images/trivia-game.jpg";
 
 function Projects() {
   return (
@@ -24,7 +25,22 @@ function Projects() {
         width={700}
         alt="title page of ball is being website"
       />
-      <p></p>
+      <p>
+        <a href="https://chrisbriseno-project2.herokuapp.com/home">{`{Ball Is Being}`}</a>{" "}
+        — A full-stack blog/e-commerce page which serves as a hub for a former
+        archiving project of mine called Ball Is Being.
+      </p>{" "}
+      <br />
+      <img
+        src={TriviaGameAPI}
+        height={400}
+        width={700}
+        alt="title page of the trivia game API website"
+      />
+      <p>
+      <a href="https://nifty-fermat-94bc6d.netlify.app/">{`{Test Your Knowledge}`}</a>{" "}
+      — My first project utilizing the OpenTrivia API and built with HTML, CSS, and JavaScript.
+      </p>
     </div>
   );
 }
