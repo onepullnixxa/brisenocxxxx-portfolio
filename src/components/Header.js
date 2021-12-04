@@ -23,7 +23,7 @@ function Header() {
             </Link>
           </li>
           <li className="nav-item">
-            <a href="https://drive.google.com/file/d/1YKK0SBFUFTh7VFVODUIAFiL5wqoJeURi/view">
+            <a href="https://drive.google.com/file/d/1L5cJV28eHRWzcV-sghYWEi0N9jEzYBDu/view?usp=sharing">
               <p id="resume">Resume</p>
             </a>
           </li>

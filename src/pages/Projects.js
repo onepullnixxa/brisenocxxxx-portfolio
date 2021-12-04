@@ -40,7 +40,7 @@ function Projects() {
       <p>
         <a href="https://chrisbriseno-project2.herokuapp.com/home">{`{Ball Is Being}`}</a>{" "}
         — A full-stack blog/e-commerce page which serves as a hub for a former
-        archiving project of mine called Ball Is Being.
+        archiving project of mine named Ball Is Being. The app was built with Mongoose, Express, MongoDB, and Node.js
       </p>{" "}
       <br />
       <img
