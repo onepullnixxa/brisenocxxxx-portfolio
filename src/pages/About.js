@@ -1,5 +1,5 @@
 import React from "react";
-import AboutPic from "../images/icecreamselfie.jpg"
+import AboutPic from "../images/icecreamselfie.jpg";
 
 function About() {
   return (
@@ -9,7 +9,7 @@ function About() {
         src={AboutPic}
         height={400}
         width={400}
-        alt="chris eating ice cream"
+        alt="me eating ice cream"
       />
       <p>
         Hi! My name is Chris and I'm a full-stack software engineer living in{" "}
@@ -19,8 +19,8 @@ function About() {
       <br />
       <p>
         I took an interest in computer science after reading Safiya Noble's{" "}
-        <a href="https://en.wikipedia.org/wiki/Algorithms_of_Oppression">{`{Algorithms of Oppression}`}</a>
-        . I was fascinated by the power of code and the impact it has on shaping
+        <a href="https://en.wikipedia.org/wiki/Algorithms_of_Oppression">{`{Algorithms of Oppression}`}</a>{" "}
+        and was fascinated by the power of code and the impact it has on shaping
         our daily lives, specifically how programs can perpetuate and contribute
         to discriminatory and anti-Black bias in society. I wanted to play a
         role in creating software that would push back against these prejudices
@@ -31,7 +31,7 @@ function About() {
       </p>{" "}
       <br />
       <p>
-        In the fall of 2021 I decided to enroll into General Assembly's Software
+        In the fall of 2021 I enrolled into General Assembly's Software
         Engineering Immersive Bootcamp to build upon some of the fundamental
         skills I had previously learned. In that intensive three month program,
         I picked up both front and backend skills in some of the following
@@ -39,9 +39,15 @@ function About() {
       </p>{" "}
       <br />
       <a href="https://reactjs.org/">{`{React}`}</a> <br />
+      <a href="https://reactnative.dev/">{`{React Native}`}</a> <br />
       <a href="https://rubyonrails.org/">{`{Ruby on Rails}`}</a> <br />
       <a href="https://www.djangoproject.com/">{`{Python / Django}`}</a> <br />
-      <a href="https://jquery.com/">{`{jQuery}`}</a> <br />
+      <a href="https://jquery.com/">{`{jQuery}`}</a> 
+      <br />
+      <br />
+      <p>
+        Early on in the process, I've quickly found a love for frontend web design. Each new project I'm working on strengthening my design skills as well as always pushing to make my work more and more functional.
+      </p>
     </div>
   );
 }

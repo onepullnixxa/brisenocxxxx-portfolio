@@ -3,6 +3,7 @@ import { Routes, Route } from 'react-router-dom';
 import Index from '../pages/Index';
 import About from '../pages/About';
 import Projects from '../pages/Projects';
+import Audio from '../pages/Audio';
 
 function Main() {
     return (
@@ -12,6 +13,7 @@ function Main() {
                     <Route index element={<Index />} />
                     <Route path="about" element={<About />} />
                     <Route path="projects" element={<Projects />} />
+                    <Route path="audio" element={<Audio />} />
                 </Route>
             </Routes>            
         </main>

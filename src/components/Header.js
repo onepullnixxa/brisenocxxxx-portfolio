@@ -27,6 +27,12 @@ function Header() {
               <p id="resume">Resume</p>
             </a>
           </li>
+
+          <li className="nav-item">
+            <Link to="audio">
+              <p id="audio">Audio</p>
+            </Link>
+          </li>
         </ul>
       </nav>
     </div>
