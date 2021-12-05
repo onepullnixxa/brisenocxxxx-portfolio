@@ -48,6 +48,10 @@ a:visited {
 }
 
 /* ABOUT */
+.about-pic {
+  margin-bottom: 5px;
+}
+
 .about-body {
   margin: 15px 0;
   line-height: 1.2em;
