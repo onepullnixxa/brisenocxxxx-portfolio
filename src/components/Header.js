@@ -22,17 +22,19 @@ function Header() {
               <p id="projects">Projects</p>
             </Link>
           </li>
-          <li className="nav-item">
-            <a href="https://drive.google.com/file/d/1L5cJV28eHRWzcV-sghYWEi0N9jEzYBDu/view?usp=sharing">
-              <p id="resume">Resume</p>
-            </a>
-          </li>
 
           <li className="nav-item">
             <Link to="audio">
               <p id="audio">Audio</p>
             </Link>
           </li>
+          
+          <li className="nav-item">
+            <a href="https://drive.google.com/file/d/1L5cJV28eHRWzcV-sghYWEi0N9jEzYBDu/view?usp=sharing">
+              <p id="resume">Resume</p>
+            </a>
+          </li>
+
         </ul>
       </nav>
     </div>

@@ -77,6 +77,20 @@ a:visited {
   color: #ffffff;
 }
 
+/* AUDIO */
+.audio-body {
+  margin: 15px 0;
+}
+
+.audio-body p {
+  margin: 10px 0 15px 0;
+}
+
+.audio-body a:hover{
+  background-color: black;
+  color: #ffffff;
+}
+
 /* FOOTER */
 
 footer {
