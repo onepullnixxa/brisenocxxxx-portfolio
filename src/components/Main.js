@@ -15,7 +15,12 @@ function Main() {
                     <Route path="projects" element={<Projects />} />
                     <Route path="audio" element={<Audio />} />
                 </Route>
-            </Routes>            
+            </Routes>
+
+            (function() {
+                console.log("~~ welcome to chris' personal space on the web :)")
+            })();
+            
         </main>
     )
 }
