@@ -16,10 +16,6 @@ function Main() {
                     <Route path="audio" element={<Audio />} />
                 </Route>
             </Routes>
-
-            (function() {
-                console.log("~~ welcome to chris' personal space on the web :)")
-            })();
             
         </main>
     )
