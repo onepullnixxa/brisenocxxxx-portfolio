@@ -128,6 +128,22 @@ footer {
 }
  
 /* Medium screen devices (768px and above) */
-@media only screen and (min-width: 768px) {
-/* PROJECTS */
+@media only screen and (max-width: 768px) {
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+p {
+  font-size: .9em;
+}
+
+a {
+  font-size: .9em;
+}
+
+.icon-links {
+  max-width: 40px;
+}
 }
