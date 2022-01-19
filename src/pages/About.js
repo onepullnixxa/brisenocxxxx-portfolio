@@ -35,13 +35,14 @@ function About() {
         Engineering Immersive Bootcamp to build upon some of the fundamental
         skills I had previously learned. In that intensive three month program,
         I picked up both front and backend skills in some of the following
-        languages:
+        languages, libraries, and frameworks:
       </p>{" "}
       <br />
       <a href="https://reactjs.org/">{`{React}`}</a> <br />
       <a href="https://reactnative.dev/">{`{React Native}`}</a> <br />
       <a href="https://rubyonrails.org/">{`{Ruby on Rails}`}</a> <br />
       <a href="https://www.djangoproject.com/">{`{Python / Django}`}</a> <br />
+      <a href="https://www.typescriptlang.org/">{`{TypeScript}`}</a> <br />
       <a href="https://jquery.com/">{`{jQuery}`}</a> 
       <br />
       <br />
