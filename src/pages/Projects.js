@@ -2,7 +2,8 @@ import React from "react";
 import MutualAid from "../images/MutualAid.jpg";
 import BallIsBeing from "../images/BallIsBeing.jpg";
 import TriviaGameAPI from "../images/trivia-game.jpg";
-import CommunityFridge from "../images/community-fridge.jpg"
+import CommunityFridge from "../images/community-fridge.jpg";
+import BookExcerpts from "../images/excerpts-screenshot.jpg";
 
 function Projects() {
   return (
@@ -52,6 +53,17 @@ function Projects() {
       <p>
       <a href="https://nifty-fermat-94bc6d.netlify.app/">{`{Test Your Knowledge}`}</a>{" "}
       — My first project utilizing the OpenTrivia API and built with HTML, CSS, and JavaScript.
+      </p>{" "}   
+      <br />
+      <img
+        src={BookExcerpts}
+        height={400}
+        width={700}
+        alt="title page of book excerpts html page"
+      />
+      <p>
+      <a href="https://blood-in-my-eye-excerpts-html.vercel.app/">{`{Book Excerpts}`}</a>{" "}
+      — A simple HTML project including excerpts from George Jackson's collection of letters and essays, Blood In My Eye.
       </p>
     </div>
   );
