@@ -31,7 +31,7 @@ function Footer() {
             <FaEnvelope />
           </a>
         </li>
-        <li className="icon-links">
+        <li className="icon-links" id="relativa-logo">
           <a href="https://radiorelativa.eu/show/dreamcast/">
             <img src={RelativaLogo} height={28} alt="small icon" />
           </a>

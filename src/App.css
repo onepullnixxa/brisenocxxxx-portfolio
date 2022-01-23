@@ -19,7 +19,6 @@ header {
   margin: 1px 30px 40px 0px;
   color: rgba(17, 16, 16, 0.9);
   font-style: italic;
-  font-size: 8px;
 }
 
 a {
@@ -127,9 +126,6 @@ footer {
     height: auto;
   }
 
-  .nav-item:hover {
-    margin-left: 150px;
-  }
 
   p {
     font-size: .9em;
@@ -140,6 +136,7 @@ footer {
   }
 
   .icon-links {
-    max-width: 40px;
+    max-width: 37px;
   }
+
 }
