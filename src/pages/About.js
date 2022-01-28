@@ -13,13 +13,13 @@ function About() {
       />
       <p>
         Hi! My name is Chris and I'm a full-stack software engineer living in{" "}
-        <a href="https://goo.gl/maps/dH6UKCcZhkNqSkvr8">{`{Ridgewood, Queens}`}</a>
+        <a href="https://goo.gl/maps/dH6UKCcZhkNqSkvr8" target="_blank" rel="noreferrer">{`{Ridgewood, Queens}`}</a>
         .
       </p>{" "}
       <br />
       <p>
         I took an interest in computer science after reading Safiya Noble's{" "}
-        <a href="https://en.wikipedia.org/wiki/Algorithms_of_Oppression">{`{Algorithms of Oppression}`}</a>{" "}
+        <a href="https://en.wikipedia.org/wiki/Algorithms_of_Oppression" target="_blank" rel="noreferrer">{`{Algorithms of Oppression}`}</a>{" "}
         and was fascinated by the power of code and the impact it has on shaping
         our daily lives, specifically how programs can perpetuate and contribute
         to discriminatory and anti-Black bias in society. I wanted to play a
@@ -38,12 +38,13 @@ function About() {
         languages, libraries, and frameworks:
       </p>{" "}
       <br />
-      <a href="https://reactjs.org/">{`{React}`}</a> <br />
-      <a href="https://reactnative.dev/">{`{React Native}`}</a> <br />
-      <a href="https://rubyonrails.org/">{`{Ruby on Rails}`}</a> <br />
-      <a href="https://www.djangoproject.com/">{`{Python / Django}`}</a> <br />
-      <a href="https://www.typescriptlang.org/">{`{TypeScript}`}</a> <br />
-      <a href="https://jquery.com/">{`{jQuery}`}</a> 
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">{`{React.js}`}</a> <br />
+      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">{`{React Native}`}</a> <br />
+      <a href="https://v3.vuejs.org/" target="_blank" rel="noreferrer">{`{Vue.js}`}</a> <br/>
+      <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer">{`{Ruby on Rails}`}</a> <br />
+      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">{`{Python / Django}`}</a> <br />
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">{`{TypeScript}`}</a> <br />
+      <a href="https://jquery.com/" target="_blank" rel="noreferrer">{`{jQuery}`}</a> 
       <br />
       <br />
       <p>

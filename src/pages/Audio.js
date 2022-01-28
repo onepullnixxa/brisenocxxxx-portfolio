@@ -13,7 +13,7 @@ function Audio() {
         alt="screen shot of Relativa Radio page"
       />
       <p>
-        <a href="https://radiorelativa.eu/show/dreamcast/">{`{Dreamcast}`}</a> 
+        <a href="https://radiorelativa.eu/show/dreamcast/" target="_blank" rel="noreferrer">{`{Dreamcast}`}</a> 
         — An ongoing program with Madrid's Relativa Radio.
       </p>
       <img
@@ -23,7 +23,7 @@ function Audio() {
         alt="screen shot of 10 trax mix"
       />
       <p>
-        <a href="https://soundcloud.com/radio-relativa/10trax-066-chris-briseno">{`{10 Trax}`}</a>{" "}
+        <a href="https://soundcloud.com/radio-relativa/10trax-066-chris-briseno" target="_blank" rel="noreferrer">{`{10 Trax}`}</a>{" "}
         — Guest mix for Relativa Radio's 10 Trax series.
       </p>
 
@@ -34,7 +34,7 @@ function Audio() {
         alt="screen shot of NTS page"
       />
       <p>
-        <a href="https://www.nts.live/shows/image-search/episodes/image-search-16-08-17">{`{Animal Image Search}`}</a>{" "}
+        <a href="https://www.nts.live/shows/image-search/episodes/image-search-16-08-17" target="_blank" rel="noreferrer">{`{Animal Image Search}`}</a>{" "}
         — Served as a guest artist on an episode of Landon Odle's series on NTS
         Radio.
       </p>
