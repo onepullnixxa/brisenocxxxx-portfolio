@@ -12,17 +12,17 @@ function Footer() {
     <footer>
       <ul className="footer-nav"> 
         <li className="icon-links">
-          <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+          <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noreferrer">
             <FaCreativeCommons />
           </a>
         </li>
         <li className="icon-links">
-          <a href="https://www.linkedin.com/in/christopherjonbriseno/">
+          <a href="https://www.linkedin.com/in/christopherjonbriseno/" target="_blank" rel="noreferrer">
             <FaLinkedin />
           </a>
         </li>
         <li className="icon-links">
-          <a href="https://github.com/onepullnixxa">
+          <a href="https://github.com/onepullnixxa" target="_blank" rel="noreferrer">
             <FaGithub />
           </a>
         </li>
@@ -32,7 +32,7 @@ function Footer() {
           </a>
         </li>
         <li className="icon-links" id="relativa-logo">
-          <a href="https://radiorelativa.eu/show/dreamcast/">
+          <a href="https://radiorelativa.eu/show/dreamcast/" target="_blank" rel="noreferrer">
             <img src={RelativaLogo} height={28} alt="small icon" />
           </a>
         </li>

@@ -30,7 +30,7 @@ function Header() {
           </li>
           
           <li className="nav-item">
-            <a href="https://drive.google.com/file/d/1L5cJV28eHRWzcV-sghYWEi0N9jEzYBDu/view?usp=sharing">
+            <a href="https://drive.google.com/file/d/1L5cJV28eHRWzcV-sghYWEi0N9jEzYBDu/view?usp=sharing" target="_blank" rel="noreferrer">
               <p id="resume">Resume</p>
             </a>
           </li>
