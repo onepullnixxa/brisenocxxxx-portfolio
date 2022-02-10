@@ -12,6 +12,7 @@ main {
   max-width: 700px;
 }
 
+
 /* HEADER */
 
 header {
@@ -54,7 +55,7 @@ a:visited {
 
 .about-body {
   margin: 15px 0;
-  line-height: 1.2em;
+  line-height: 1.5;
 }
 
 .about-body a:hover{
@@ -65,7 +66,7 @@ a:visited {
 /* PROJECTS */
 .projects-body {
   margin: 15px 0;
-  line-height: 1.2em;
+  line-height: 1.5;
 }
 
 .projects-body p {
@@ -80,6 +81,7 @@ a:visited {
 /* AUDIO */
 .audio-body {
   margin: 15px 0;
+  line-height: 1.5;
 }
 
 .audio-body p {
