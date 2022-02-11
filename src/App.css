@@ -55,7 +55,7 @@ a:visited {
 
 .about-body {
   margin: 15px 0;
-  line-height: 1.425;
+  line-height: 1.4;
 }
 
 .about-body a:hover{
@@ -66,7 +66,7 @@ a:visited {
 /* PROJECTS */
 .projects-body {
   margin: 15px 0;
-  line-height: 1.425;
+  line-height: 1.4;
 }
 
 .projects-body p {
@@ -81,7 +81,7 @@ a:visited {
 /* AUDIO */
 .audio-body {
   margin: 15px 0;
-  line-height: 1.425;
+  line-height: 1.4;
 }
 
 .audio-body p {
