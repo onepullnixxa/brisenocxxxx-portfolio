@@ -44,7 +44,7 @@ function About() {
       <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer">{`{Ruby on Rails}`}</a> <br />
       <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">{`{Python / Django}`}</a> <br />
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">{`{TypeScript}`}</a> <br />
-      <a href="https://jquery.com/" target="_blank" rel="noreferrer">{`{jQuery}`}</a> 
+      <a href="https://shopify.github.io/liquid/" target="_blank" rel="noreferrer">{`{Shopify Liquid}`}</a>
       <br />
       <br />
       <p>
