@@ -13,25 +13,25 @@ function Header() {
         <ul className="navbar">
           <li className="nav-item">
             <Link to="about">
-              <p id="about">About</p>
+              About
             </Link>
           </li>
 
           <li className="nav-item">
             <Link to="projects">
-              <p id="projects">Projects</p>
+              Projects
             </Link>
           </li>
 
           <li className="nav-item">
             <Link to="audio">
-              <p id="audio">Audio</p>
+              Audio
             </Link>
           </li>
           
           <li className="nav-item">
             <a href="https://drive.google.com/file/d/1L5cJV28eHRWzcV-sghYWEi0N9jEzYBDu/view?usp=sharing" target="_blank" rel="noreferrer">
-              <p id="resume">Resume</p>
+              Resume
             </a>
           </li>
 

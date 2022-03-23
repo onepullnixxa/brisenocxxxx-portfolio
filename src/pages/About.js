@@ -48,7 +48,7 @@ function About() {
       <br />
       <br />
       <p>
-        Early on in the process, I've quickly found a love for frontend web design. Each new project I'm working on strengthening my design skills as well as always pushing to make my work more and more functional.
+        Early on in my development career, I've quickly found a love for frontend web design. Each new project I'm working on strengthening my design skills as well as always pushing to make my work more and more functional.
       </p>
     </div>
   );
