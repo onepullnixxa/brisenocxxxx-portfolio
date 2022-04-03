@@ -5,7 +5,7 @@
 }
 
 body {
-  padding: 15px;
+  padding: 20px;
 }
 
 main {
@@ -16,10 +16,26 @@ main {
 /* HEADER */
 
 header {
-  float: left;
+  display: inline-flex;
+}
+
+.header-me__8-D {
   margin: 1px 30px 40px 0px;
   color: rgba(17, 16, 16, 0.9);
   font-style: italic;
+}
+
+#home {
+  font-size: 16px;
+}
+
+.navbar {
+  list-style: none;
+}
+
+.nav-item:hover {
+  background-color: #ADC698;
+  color: #ffffff;
 }
 
 a {
@@ -30,17 +46,6 @@ a {
 a:visited {
   text-decoration: none;
 }
-
-.navbar {
-  list-style: none;
-}
-
-.nav-item:hover {
-  background-color: #ADC698;
-  color: #ffffff;
-  margin-left: 165px;
-}
-
 
 /* INDEX */
 
