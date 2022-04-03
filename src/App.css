@@ -21,7 +21,7 @@ header {
 
 .header-me__8-D {
   margin: 1px 30px 40px 0px;
-  color: rgba(17, 16, 16, 0.9);
+  color: #0C1618;
   font-style: italic;
 }
 
@@ -33,7 +33,7 @@ header {
   list-style: none;
 }
 
-.nav-item:hover {
+.navbar li:hover, .navbar li:focus {
   background-color: #ADC698;
   color: #ffffff;
 }
@@ -140,6 +140,15 @@ footer {
 
   a {
     font-size: .9em;
+  }
+
+  /* Mobile Header */
+  .header-me__8-D {
+    margin: 1px 20px 40px 0px;
+  }
+
+  #home {
+    font-size: 14px;
   }
 
   .icon-links {
