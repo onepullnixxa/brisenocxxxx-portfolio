@@ -12,7 +12,6 @@ main {
   max-width: 700px;
 }
 
-
 /* HEADER */
 
 header {
@@ -35,7 +34,6 @@ header {
 
 .navbar li:hover, .navbar li:focus {
   background-color: #ADC698;
-  color: #ffffff;
 }
 
 .navbar a.active {
@@ -138,7 +136,6 @@ footer {
     height: auto;
   }
 
-
   p {
     font-size: .9em;
   }
@@ -154,6 +151,10 @@ footer {
 
   .icon-links {
     max-width: 37px;
+  }
+
+  .navbar li:focus {
+    background-color: none;
   }
 
 }
