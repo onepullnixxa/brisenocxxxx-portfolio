@@ -2,6 +2,8 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 function Header() {
+  
+  
   return (
     <header>
       <div class="header-me__8-D">
@@ -11,25 +13,25 @@ function Header() {
       </div>
       <nav>
         <ul className="navbar">
-          <li className="nav-item">
+          <li>
             <Link to="about">
               About
             </Link>
           </li>
 
-          <li className="nav-item">
+          <li>
             <Link to="projects">
               Projects
             </Link>
           </li>
 
-          <li className="nav-item">
+          <li>
             <Link to="audio">
               Audio
             </Link>
           </li>
           
-          <li className="nav-item">
+          <li>
             <a href="https://drive.google.com/file/d/1L5cJV28eHRWzcV-sghYWEi0N9jEzYBDu/view?usp=sharing" target="_blank" rel="noreferrer">
               Resume
             </a>
