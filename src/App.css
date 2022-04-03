@@ -153,8 +153,21 @@ footer {
     max-width: 37px;
   }
 
-  .navbar li:focus {
+  .navbar a:hover{
     background-color: none;
   }
 
+  .navbar a:focus {
+    background-color: none;
+  }
+
+  /* Mobile About */
+  .about-body {
+    line-height: 1.45;
+  }
+
+  /* Mobile Audio */
+  .audio-body {
+    line-height: 1.45;
+}
 }
