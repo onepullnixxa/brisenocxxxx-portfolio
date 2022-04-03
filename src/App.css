@@ -38,6 +38,11 @@ header {
   color: #ffffff;
 }
 
+.navbar a.active {
+  font-style: italic;
+  color: #000000;
+}
+
 a {
   text-decoration: none;
   color: inherit;
@@ -146,7 +151,6 @@ footer {
   .header-me__8-D {
     margin: 1px 20px 40px 0px;
   }
-
 
   .icon-links {
     max-width: 37px;
