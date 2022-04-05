@@ -4,10 +4,21 @@ import BallIsBeing from "../images/BallIsBeing.jpg";
 import TriviaGameAPI from "../images/trivia-game.jpg";
 import CommunityFridge from "../images/community-fridge.jpg";
 import BookExcerpts from "../images/excerpts-screenshot.jpg";
+import VarietyCoffee from "../images/variety-coffee.jpg";
 
 function Projects() {
   return (
     <div className="projects-body">
+      <img 
+        src={VarietyCoffee}
+        height={400}
+        width={750}
+        alt="home page of Variety Coffee Roasters site"
+      />
+      <p>
+        <a href="https://varietycoffeeroasters.com/" target="_blank" rel="noreferrer">{`{Variety Coffee Roasters}`}</a>{" "}
+        — Website done in collaboration with <a href="http://www.human-nyc.com/" target="_blank" rel="noreferrer">{`{Human NYC}`}</a> for Brooklyn's Variety Coffee Roasters' redesign. Built with Shopify Liquid.
+      </p>
       <img
         src={CommunityFridge}
         height={400}
