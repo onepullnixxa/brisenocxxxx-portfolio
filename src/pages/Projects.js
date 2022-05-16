@@ -1,7 +1,7 @@
 import React from "react";
 import MutualAid from "../images/MutualAid.jpg";
 import BallIsBeing from "../images/BallIsBeing.jpg";
-import TriviaGameAPI from "../images/trivia-game.jpg";
+import SunniesFace from "../images/sunnies-face.jpg";
 import CommunityFridge from "../images/community-fridge.jpg";
 import BookExcerpts from "../images/excerpts-screenshot.jpg";
 import VarietyCoffee from "../images/variety-coffee.jpg";
@@ -9,6 +9,17 @@ import VarietyCoffee from "../images/variety-coffee.jpg";
 function Projects() {
   return (
     <div className="projects-body">
+      <img
+        src={SunniesFace}
+        height={400}
+        width={750}
+        alt="home page of Sunnies Face"
+      />
+      <p>
+        <a href="https://sunniesface.com/"
+        target="_blank" rel="noreferrer">{`{Sunnies Face}`}</a>{" "}
+        — Website completed together with <a href="https://www.softwave.nyc/" target="_blank" rel="noreferrer">{`{Madison Hardt}`}</a>, <a href="https://spaghetti.directory/users/michael-ray/" target="_blank" rel="noreferrer">{`{Michael Ray}`}</a> and the talented design team at <a href="http://www.human-nyc.com/" target="_blank" rel="noreferrer">{`{Human NYC}`}</a>. Built with Shopify Liquid.
+      </p>
       <img 
         src={VarietyCoffee}
         height={400}
@@ -17,7 +28,7 @@ function Projects() {
       />
       <p>
         <a href="https://varietycoffeeroasters.com/" target="_blank" rel="noreferrer">{`{Variety Coffee Roasters}`}</a>{" "}
-        — Website done in collaboration with <a href="http://www.human-nyc.com/" target="_blank" rel="noreferrer">{`{Human NYC}`}</a> for Brooklyn's Variety Coffee Roasters' redesign. Built with Shopify Liquid.
+        — Website done in collaboration with <a href="http://www.human-nyc.com/" target="_blank" rel="noreferrer">{`{Human NYC}`}</a> for Brooklyn's Variety Coffee Roasters redesign. Built with Shopify Liquid.
       </p>
       <img
         src={CommunityFridge}
@@ -54,17 +65,6 @@ function Projects() {
         — A full-stack blog/e-commerce page which serves as a hub for a former
         archiving project of mine named Ball Is Being. The app was built with Mongoose, Express, MongoDB, and Node.js
       </p>{" "}
-      <br />
-      <img
-        src={TriviaGameAPI}
-        height={400}
-        width={700}
-        alt="title page of the trivia game API website"
-      />
-      <p>
-      <a href="https://nifty-fermat-94bc6d.netlify.app/" target="_blank" rel="noreferrer">{`{Test Your Knowledge}`}</a>{" "}
-      — My first project utilizing the OpenTrivia API and built with HTML, CSS, and JavaScript.
-      </p>{" "}   
       <br />
       <img
         src={BookExcerpts}
