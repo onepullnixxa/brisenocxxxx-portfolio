@@ -5,10 +5,22 @@ import SunniesFace from "../images/sunnies-face.jpg";
 import CommunityFridge from "../images/community-fridge.jpg";
 import BookExcerpts from "../images/excerpts-screenshot.jpg";
 import VarietyCoffee from "../images/variety-coffee.jpg";
+import DuneSuncare from "../images/dune-screenshot.jpg";
 
 function Projects() {
   return (
     <div className="projects-body">
+      <img
+        src={DuneSuncare}
+        height={400}
+        width={750}
+        alt="dune suncare home page"
+      />
+      <p>
+        <a href="https://dunesuncare.com/"
+        target="_blank" rel="noreferrer">{`{Dune Sunecare}`}</a>{" "}
+        — Website completed with <a href="http://www.human-nyc.com/" target="_blank" rel="noreferrer">{`{Human NYC}`}</a>. Built with Shopify Liquid.
+      </p>
       <img
         src={SunniesFace}
         height={400}
