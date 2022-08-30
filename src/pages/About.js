@@ -25,9 +25,7 @@ function About() {
         to discriminatory and anti-Black bias in society. I wanted to play a
         role in creating software that would push back against these prejudices
         and use my skills towards projects tackling houselessness, poverty,
-        transphobia, homophobia, and sexism. I decided thereafter to study basic
-        HTML, CSS, and JavaScript in order to prepare myself to begin my journey
-        in tech.
+        transphobia, homophobia, and sexism.
       </p>{" "}
       <br />
       <p>
@@ -45,6 +43,8 @@ function About() {
       <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">{`{Python / Django}`}</a> <br />
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">{`{TypeScript}`}</a> <br />
       <a href="https://shopify.github.io/liquid/" target="_blank" rel="noreferrer">{`{Shopify Liquid}`}</a>
+      <br />
+      <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">{`{SCSS}`}</a>
       <br />
       <br />
       <p>

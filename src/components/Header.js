@@ -6,9 +6,9 @@ function Header() {
   
   return (
     <header>
-      <div class="header-me__8-D">
+      <div className="header-me__8-D">
         <NavLink to="/">
-          <h1 id="home">Christopher Briseño</h1>
+          <h1 className="home">Christopher Briseño</h1>
         </NavLink>
       </div>
       <nav>
