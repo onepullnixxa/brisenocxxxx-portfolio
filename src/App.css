@@ -16,10 +16,10 @@ main {
 
 header {
   display: inline-flex;
+  column-gap: 2rem;
 }
 
 .header-me__8-D {
-  margin: 1px 30px 40px 0px;
   color: #0C1618;
   font-style: italic;
 }
