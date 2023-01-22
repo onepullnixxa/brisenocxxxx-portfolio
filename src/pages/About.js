@@ -20,7 +20,7 @@ function About() {
       <p>
         I took an interest in computer science after reading Safiya Noble's{" "}
         <a href="https://en.wikipedia.org/wiki/Algorithms_of_Oppression" target="_blank" rel="noreferrer">{`{Algorithms of Oppression}`}</a>{" "}
-        and was fascinated by the power of code and the impact it has on shaping
+        and was fascinated by the power of writing software and its impact on shaping
         our daily lives, specifically how programs can perpetuate and contribute
         to discriminatory and anti-Black bias in society. I wanted to play a
         role in creating software that would push back against these prejudices
@@ -29,9 +29,9 @@ function About() {
       </p>{" "}
       <br />
       <p>
-        In the fall of 2021 I enrolled into General Assembly's Software
+        In 2021 I enrolled into General Assembly's Software
         Engineering Immersive Bootcamp to build upon some of the fundamental
-        skills I had previously learned. In that intensive three month program,
+        skills I had previously learned by self-teaching. In that intensive three month program,
         I picked up both front and backend skills in some of the following
         languages, libraries, and frameworks:
       </p>{" "}
@@ -42,13 +42,12 @@ function About() {
       <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer">{`{Ruby on Rails}`}</a> <br />
       <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">{`{Python / Django}`}</a> <br />
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">{`{TypeScript}`}</a> <br />
-      <a href="https://shopify.github.io/liquid/" target="_blank" rel="noreferrer">{`{Shopify Liquid}`}</a>
-      <br />
-      <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">{`{SCSS}`}</a>
-      <br />
+      <a href="https://shopify.github.io/liquid/" target="_blank" rel="noreferrer">{`{Shopify Liquid}`}</a> <br />
+      <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">{`{SCSS}`}</a> <br />
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">{`{Tailwind CSS}`}</a> <br />
       <br />
       <p>
-        Early on in my development career, I've quickly found a love for frontend web design. Each new project I'm working on strengthening my design skills as well as always pushing to make my work more and more functional.
+        Early on in my development career, I've quickly found a love for frontend web design. With each new project I'm working on strengthening my design skills as well as always pushing to make my work more and more functional.
       </p>
     </div>
   );

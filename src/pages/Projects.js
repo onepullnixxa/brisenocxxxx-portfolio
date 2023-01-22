@@ -30,7 +30,7 @@ function Projects() {
       <p>
         <a href="https://sunniesface.com/"
         target="_blank" rel="noreferrer">{`{Sunnies Face}`}</a>{" "}
-        — Website completed together with <a href="https://www.softwave.nyc/" target="_blank" rel="noreferrer">{`{Madison Hardt}`}</a>, <a href="https://spaghetti.directory/users/michael-ray/" target="_blank" rel="noreferrer">{`{Michael Ray}`}</a> and the talented design team at <a href="http://www.human-nyc.com/" target="_blank" rel="noreferrer">{`{Human NYC}`}</a>. Built with Shopify Liquid.
+        — Website completed with <a href="https://www.softwave.nyc/" target="_blank" rel="noreferrer">{`{Madison Hardt}`}</a>, <a href="https://spaghetti.directory/users/michael-ray/" target="_blank" rel="noreferrer">{`{Michael Ray}`}</a> and <a href="https://leilabartholet.com/" target="_blank" rel="noreferrer">{`{Leila Bartholet}`}</a> for <a href="http://www.human-nyc.com/" target="_blank" rel="noreferrer">{`{Human NYC}`}</a>. Built with Shopify Liquid.
       </p>
       <img 
         src={VarietyCoffee}
