@@ -1,6 +1,6 @@
 import React from "react";
 import MutualAid from "../images/MutualAid.jpg";
-import BallIsBeing from "../images/BallIsBeing.jpg";
+import junedays from "../images/junedays.jpg";
 import SunniesFace from "../images/sunnies-face.jpg";
 import CommunityFridge from "../images/community-fridge.jpg";
 import BookExcerpts from "../images/excerpts-screenshot.jpg";
@@ -11,6 +11,18 @@ function Projects() {
   return (
     <div className="projects-body">
       <img
+        src={junedays}
+        height={400}
+        width={750}
+        alt="junedays home page"
+      />
+      <p>
+        <a href="https://junedays.com/"
+        target="_blank" rel="noreferrer">{`{junedays}`}</a>{" "}
+        - Website completed with <a href="http://www.human-nyc.com/"
+        target="_blank" rel="noreferrer">{`{Human NYC}`}</a>. Built with Shopify Liquid.
+      </p>
+      <img
         src={DuneSuncare}
         height={400}
         width={750}
@@ -18,7 +30,7 @@ function Projects() {
       />
       <p>
         <a href="https://dunesuncare.com/"
-        target="_blank" rel="noreferrer">{`{Dune Sunecare}`}</a>{" "}
+        target="_blank" rel="noreferrer">{`{Dune Suncare}`}</a>{" "}
         — Website completed with <a href="http://www.human-nyc.com/" target="_blank" rel="noreferrer">{`{Human NYC}`}</a>. Built with Shopify Liquid.
       </p>
       <img
@@ -64,18 +76,6 @@ function Projects() {
         — A full-stack application which allows users to boost aid requests of
         Black Trans and Non-Binary individuals in need of financial aid and
         assistance. The app was built with React, Express, MongoDB, and Node.js
-      </p>{" "}
-      <br />
-      <img
-        src={BallIsBeing}
-        height={400}
-        width={700}
-        alt="title page of ball is being website"
-      />
-      <p>
-        <a href="https://chrisbriseno-project2.herokuapp.com/home" target="_blank" rel="noreferrer">{`{Ball Is Being}`}</a>{" "}
-        — A full-stack blog/e-commerce page which serves as a hub for a former
-        archiving project of mine named Ball Is Being. The app was built with Mongoose, Express, MongoDB, and Node.js
       </p>{" "}
       <br />
       <img
