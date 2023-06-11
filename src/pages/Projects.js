@@ -6,10 +6,22 @@ import CommunityFridge from "../images/community-fridge.jpg";
 import BookExcerpts from "../images/excerpts-screenshot.jpg";
 import VarietyCoffee from "../images/variety-coffee.jpg";
 import DuneSuncare from "../images/dune-screenshot.jpg";
+import ParFemme from "../images/par-femme.jpg";
 
 function Projects() {
   return (
     <div className="projects-body">
+      <img
+        src={ParFemme}
+        height={400}
+        width={750}
+        alt="par femme homepage"
+      />
+      <p>
+        <a href="https://www.parfemme.net"
+        target="_blank" rel="noreferrer">{`{Par Femme}`}</a>{" "}
+        - Built using Vue 3, Nuxt 3 and Sanity Studios.
+      </p>
       <img
         src={junedays}
         height={400}
@@ -19,7 +31,7 @@ function Projects() {
       <p>
         <a href="https://junedays.com/"
         target="_blank" rel="noreferrer">{`{junedays}`}</a>{" "}
-        - Website completed with <a href="http://www.human-nyc.com/"
+        - Custom Shopify theme written and completed with <a href="http://www.human-nyc.com/"
         target="_blank" rel="noreferrer">{`{Human NYC}`}</a>. Built with Shopify Liquid.
       </p>
       <img

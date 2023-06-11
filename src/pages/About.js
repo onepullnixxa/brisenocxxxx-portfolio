@@ -12,7 +12,7 @@ function About() {
         alt="me eating ice cream"
       />
       <p>
-        Hi! My name is Chris and I'm a full-stack software engineer living in{" "}
+        My name is Chris and I'm a full-stack software engineer living in{" "}
         <a href="https://goo.gl/maps/dH6UKCcZhkNqSkvr8" target="_blank" rel="noreferrer">{`{Ridgewood, Queens}`}</a>
         .
       </p>{" "}
@@ -29,25 +29,21 @@ function About() {
       </p>{" "}
       <br />
       <p>
-        In 2021 I enrolled into General Assembly's Software
-        Engineering Immersive Bootcamp to build upon some of the fundamental
-        skills I had previously learned by self-teaching. In that intensive three month program,
-        I picked up both front and backend skills in some of the following
-        languages, libraries, and frameworks:
+        I've now been writing software for two years and have builiding websites in some of the following libraries and frameworks:
       </p>{" "}
       <br />
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer">{`{React.js}`}</a> <br />
       <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">{`{React Native}`}</a> <br />
       <a href="https://v3.vuejs.org/" target="_blank" rel="noreferrer">{`{Vue.js}`}</a> <br/>
+      <a href="https://www.sanity.io/studio/" target="_blank" rel="noreferrer">{`{Sanity Studio}`}</a><br />
       <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer">{`{Ruby on Rails}`}</a> <br />
-      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">{`{Python / Django}`}</a> <br />
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">{`{TypeScript}`}</a> <br />
       <a href="https://shopify.github.io/liquid/" target="_blank" rel="noreferrer">{`{Shopify Liquid}`}</a> <br />
       <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">{`{SCSS}`}</a> <br />
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">{`{Tailwind CSS}`}</a> <br />
       <br />
       <p>
-        Early on in my development career, I've quickly found a love for frontend web design. With each new project I'm working on strengthening my design skills as well as always pushing to make my work more and more functional.
+        In my journey as a developer, I've' discovered a deep passion for frontend web design. Every project I undertake allows me to further refine my design skills and consistently strive for greater functionality and scalability. With each new endeavor, I'm committed to honing my abilities and delivering exceptional work.
       </p>
     </div>
   );
