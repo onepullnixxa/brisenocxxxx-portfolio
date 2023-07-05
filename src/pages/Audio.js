@@ -25,8 +25,8 @@ function Audio() {
         alt="screen shot of Relativa Radio page"
       />
       <p>
-        <a href="https://radiorelativa.eu/show/dreamcast/" target="_blank" rel="noreferrer">{`{Dreamcast}`}</a> 
-        — An ongoing program with Madrid's Relativa Radio.
+        <a href="https://radiorelativa.eu/show/dreamcast/" target="_blank" rel="noreferrer">{`{Dreamcast}`}</a>{" "}
+        — An ongoing program for Madrid's Relativa Radio.
       </p>
 
       <img

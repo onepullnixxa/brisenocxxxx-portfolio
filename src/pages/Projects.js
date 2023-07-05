@@ -20,7 +20,7 @@ function Projects() {
       <p>
         <a href="https://www.parfemme.net"
         target="_blank" rel="noreferrer">{`{Par Femme}`}</a>{" "}
-        - Built using Vue 3, Nuxt 3 and Sanity Studios.
+        — Built using Vue 3, Nuxt 3 and Sanity.io
       </p>
       <img
         src={junedays}
@@ -31,8 +31,8 @@ function Projects() {
       <p>
         <a href="https://junedays.com/"
         target="_blank" rel="noreferrer">{`{junedays}`}</a>{" "}
-        - Custom Shopify theme written and completed with <a href="http://www.human-nyc.com/"
-        target="_blank" rel="noreferrer">{`{Human NYC}`}</a>. Built with Shopify Liquid.
+        — Custom Shopify theme written and completed with <a href="http://www.human-nyc.com/"
+        target="_blank" rel="noreferrer">{`{Human NYC}`}</a>.
       </p>
       <img
         src={DuneSuncare}
@@ -43,7 +43,7 @@ function Projects() {
       <p>
         <a href="https://dunesuncare.com/"
         target="_blank" rel="noreferrer">{`{Dune Suncare}`}</a>{" "}
-        — Website completed with <a href="http://www.human-nyc.com/" target="_blank" rel="noreferrer">{`{Human NYC}`}</a>. Built with Shopify Liquid.
+        — Website completed with <a href="http://www.human-nyc.com/" target="_blank" rel="noreferrer">{`{Human NYC}`}</a>.
       </p>
       <img
         src={SunniesFace}
