@@ -32,7 +32,7 @@ function Header() {
           </li>
           
           <li>
-            <a href="https://drive.google.com/file/d/1L5cJV28eHRWzcV-sghYWEi0N9jEzYBDu/view?usp=sharing">
+            <a href="https://drive.google.com/file/d/1klqLuKKNkeCz6BpAT9DZ3RRtmxm7C3EH/view?usp=sharing">
               Resume
             </a>
           </li>
