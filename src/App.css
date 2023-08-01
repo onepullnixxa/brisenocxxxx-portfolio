@@ -73,6 +73,11 @@ a:visited {
   color: #ffffff;
 }
 
+.skill-block a {
+  font-size: .9em;
+  line-height: 140%;
+}
+
 /* PROJECTS */
 .projects-body {
   margin: 12px 0;

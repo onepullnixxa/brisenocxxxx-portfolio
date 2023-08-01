@@ -1,5 +1,4 @@
 import React from "react";
-import MutualAid from "../images/MutualAid.jpg";
 import junedays from "../images/junedays.jpg";
 import SunniesFace from "../images/sunnies-face.jpg";
 import CommunityFridge from "../images/community-fridge.jpg";
@@ -20,7 +19,7 @@ function Projects() {
       <p>
         <a href="https://www.parfemme.net"
         target="_blank" rel="noreferrer">{`{Par Femme}`}</a>{" "}
-        — Built using Vue 3, Nuxt 3 and Sanity.io
+        — Built with Vue 3, Nuxt 3 and Sanity.io
       </p>
       <img
         src={junedays}
@@ -31,8 +30,7 @@ function Projects() {
       <p>
         <a href="https://junedays.com/"
         target="_blank" rel="noreferrer">{`{junedays}`}</a>{" "}
-        — Custom Shopify theme written and completed with <a href="http://www.human-nyc.com/"
-        target="_blank" rel="noreferrer">{`{Human NYC}`}</a>.
+        — Website completed with <a href="http://www.human-nyc.com/" target="_blank" rel="noreferrer">{`{Human NYC}`}</a>. Built with Shopify Liquid.
       </p>
       <img
         src={DuneSuncare}
@@ -43,7 +41,8 @@ function Projects() {
       <p>
         <a href="https://dunesuncare.com/"
         target="_blank" rel="noreferrer">{`{Dune Suncare}`}</a>{" "}
-        — Website completed with <a href="http://www.human-nyc.com/" target="_blank" rel="noreferrer">{`{Human NYC}`}</a>.
+        — Custom Shopify theme written and completed with <a href="http://www.human-nyc.com/"
+        target="_blank" rel="noreferrer">{`{Human NYC}`}</a>.
       </p>
       <img
         src={SunniesFace}
@@ -54,7 +53,8 @@ function Projects() {
       <p>
         <a href="https://sunniesface.com/"
         target="_blank" rel="noreferrer">{`{Sunnies Face}`}</a>{" "}
-        — Website completed with <a href="http://www.human-nyc.com/" target="_blank" rel="noreferrer">{`{Human NYC}`}</a>. Built with Shopify Liquid.
+        — Custom Shopify theme written and completed with <a href="http://www.human-nyc.com/"
+        target="_blank" rel="noreferrer">{`{Human NYC}`}</a>.
       </p>
       <img 
         src={VarietyCoffee}
@@ -64,7 +64,7 @@ function Projects() {
       />
       <p>
         <a href="https://varietycoffeeroasters.com/" target="_blank" rel="noreferrer">{`{Variety Coffee Roasters}`}</a>{" "}
-        — Website done in collaboration with <a href="http://www.human-nyc.com/" target="_blank" rel="noreferrer">{`{Human NYC}`}</a> for Brooklyn's Variety Coffee Roasters redesign. Built with Shopify Liquid.
+        — Website completed in collaboration with <a href="http://www.human-nyc.com/" target="_blank" rel="noreferrer">{`{Human NYC}`}</a> for Brooklyn's Variety Coffee Roasters redesign. Built with Shopify Liquid.
       </p>
       <img
         src={CommunityFridge}
@@ -76,20 +76,6 @@ function Projects() {
         <a href="https://boring-kilby-88fd89.netlify.app" target="_blank" rel="noreferrer">{`{Community Fridge App}`}</a>{" "}
         — Work in progress
       </p>{" "}
-      <br />
-      <img
-        src={MutualAid}
-        height={400}
-        width={700}
-        alt="title page of mutual aid resource website"
-      />
-      <p>
-        <a href="https://pensive-knuth-7d02c1.netlify.app/" target="_blank" rel="noreferrer">{`{Mutual Aid Resource}`}</a>{" "}
-        — A full-stack application which allows users to boost aid requests of
-        Black Trans and Non-Binary individuals in need of financial aid and
-        assistance. The app was built with React, Express, MongoDB, and Node.js
-      </p>{" "}
-      <br />
       <img
         src={BookExcerpts}
         height={400}
