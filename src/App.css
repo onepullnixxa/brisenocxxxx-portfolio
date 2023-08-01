@@ -78,6 +78,13 @@ a:visited {
   line-height: 140%;
 }
 
+@media screen and (min-width: 768px) {
+  .skill-block a {
+    font-size: 16px;
+    line-height: 130%;
+  } 
+}
+
 /* PROJECTS */
 .projects-body {
   margin: 12px 0;
