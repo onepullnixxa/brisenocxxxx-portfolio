@@ -1,7 +1,6 @@
 import React from "react";
 import junedays from "../images/junedays.jpg";
 import SunniesFace from "../images/sunnies-face.jpg";
-import CommunityFridge from "../images/community-fridge.jpg";
 import BookExcerpts from "../images/excerpts-screenshot.jpg";
 import VarietyCoffee from "../images/variety-coffee.jpg";
 import DuneSuncare from "../images/dune-screenshot.jpg";
@@ -19,7 +18,7 @@ function Projects() {
       <p>
         <a href="https://www.parfemme.net"
         target="_blank" rel="noreferrer">{`{Par Femme}`}</a>{" "}
-        — Built with Vue 3, Nuxt 3 and Sanity.io
+        — Built with Vue 3, Nuxt 3, Tailwind CSS and Sanity.io
       </p>
       <img
         src={junedays}
@@ -66,16 +65,6 @@ function Projects() {
         <a href="https://varietycoffeeroasters.com/" target="_blank" rel="noreferrer">{`{Variety Coffee Roasters}`}</a>{" "}
         — Website completed in collaboration with <a href="http://www.human-nyc.com/" target="_blank" rel="noreferrer">{`{Human NYC}`}</a> for Brooklyn's Variety Coffee Roasters redesign. Built with Shopify Liquid.
       </p>
-      <img
-        src={CommunityFridge}
-        height={400}
-        width={750}
-        alt="title page of community fridge app"
-      />
-      <p>
-        <a href="https://boring-kilby-88fd89.netlify.app" target="_blank" rel="noreferrer">{`{Community Fridge App}`}</a>{" "}
-        — Work in progress
-      </p>{" "}
       <img
         src={BookExcerpts}
         height={400}
