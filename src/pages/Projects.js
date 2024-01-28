@@ -5,25 +5,10 @@ import BookExcerpts from "../images/excerpts-screenshot.jpg";
 import VarietyCoffee from "../images/variety-coffee.jpg";
 import DuneSuncare from "../images/dune-screenshot.jpg";
 import ParFemme from "../images/par-femme.jpg";
-import BigFeelings from "../images/big-feelings.png";
 
 function Projects() {
   return (
     <div className="projects-body">
-      <img
-        src={BigFeelings}
-        height={400}
-        width={750}
-        alt="big feelings homepage"
-      />
-      <p>
-        <a
-          href="https://bigfeelings.com/"
-          target="_blank"
-          rel="noreferrer"
-        >{`{Big Feelings}`}</a>{" "}
-        — Built with Vue 3, Alpine.js, Tailwind CSS and Shopify Liquid
-      </p>
       <img src={ParFemme} height={400} width={750} alt="par femme homepage" />
       <p>
         <a

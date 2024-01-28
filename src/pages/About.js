@@ -33,13 +33,13 @@ function About() {
       </p>{" "}
       <br />
       <div className="skill-block">
+        <a href="https://v3.vuejs.org/" target="_blank" rel="noreferrer">{`{Vue.js}`}</a> 
+        <br/>
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">{`{React.js}`}</a> <br />
-        <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">{`{React Native}`}</a> <br />
-        <a href="https://v3.vuejs.org/" target="_blank" rel="noreferrer">{`{Vue.js}`}</a> <br/>
         <a href="https://www.sanity.io/studio/" target="_blank" rel="noreferrer">{`{Sanity Studio}`}</a><br />
-        <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer">{`{Ruby on Rails}`}</a> <br />
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">{`{TypeScript}`}</a> <br />
         <a href="https://shopify.github.io/liquid/" target="_blank" rel="noreferrer">{`{Shopify Liquid}`}</a> <br />
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">{`{TypeScript}`}</a> <br />
+        <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer">{`{Ruby on Rails}`}</a> <br />
         <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">{`{SCSS}`}</a> <br />
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">{`{Tailwind CSS}`}</a>
         </div>
