@@ -37,7 +37,7 @@ function Footer() {
           </a>
         </li>
         <li className="footer-text">
-          <p>::christopher jon briseño:: 2023</p>
+          <p>::christopher jon briseño:: { new Date().getFullYear()}</p>
         </li>
       </ul>
     </footer>
